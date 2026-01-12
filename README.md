@@ -1,2 +1,15 @@
-# ChatGPT-Clone---React-Vite-Project
-This is a ChatGPT-like chatbot application built with React and Vite, powered by Google's Generative AI (Gemini API). Lightweight SPA featuring dark/light mode, sidebar with recent prompts, and conversation history.
+# ChatGPT Clone – React + Vite
+
+A ChatGPT-like AI chatbot built using React, Vite, and Gemini API.
+
+## Features
+- Dark mode
+- Sidebar navigation
+- Real-time chat UI
+- Gemini API integration
+
+## Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS
